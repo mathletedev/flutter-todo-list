@@ -78,6 +78,9 @@ class TodoItem extends HookConsumerWidget {
                 value: todo.completed,
                 onChanged: (value) =>
                     ref.read(todoListProvider.notifier).toggle(todo.id)),
-            title: Text(todo.description)));
+            title: Text(todo.description,
+                style: todo.completed
+                    ? const TextStyle(decoration: TextDecoration.lineThrough)
+                    : null)));
   }
 }
