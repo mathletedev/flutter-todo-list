@@ -1,16 +1,14 @@
-# flutter_todo_list
+# Flutter Todo List
 
-A new Flutter project.
+My first Flutter project!
 
-## Getting Started
+## Things I Learned
 
-This project is a starting point for a Flutter application.
+- Setting up a Flutter project
+- Flutter app layout: `Widget`s
+- Neovim Flutter tooling with [flutter-tools.nvim](https://github.com/nvim-flutter/flutter-tools.nvim)
+- State management using [Riverpod](https://github.com/rrousselGit/riverpod)
 
-A few resources to get you started if this is your first Flutter project:
+## Citations
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Riverpod todo example](https://github.com/rrousselGit/riverpod/blob/master/examples/todos)
