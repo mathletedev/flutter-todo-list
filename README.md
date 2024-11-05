@@ -12,3 +12,4 @@ My first Flutter project!
 ## Citations
 
 - [Riverpod todo example](https://github.com/rrousselGit/riverpod/blob/master/examples/todos)
+- [Flutter forms with validation](https://docs.flutter.dev/cookbook/forms/validation)
