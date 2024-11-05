@@ -1,6 +1,6 @@
 # Flutter Todo List
 
-My first Flutter project!
+> My first Flutter project!
 
 ## Things I Learned
 
